@@ -130,7 +130,7 @@ header {
 .filme-principal {
   font-size: 16px;
   background: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5) 100%),
-    url('/img/thumb-1920-1046568.jpg');
+    url('img/thumb-1920-1046568.jpg');
   height: 600px;
   background-size: cover;
   background-position: center;
